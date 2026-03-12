@@ -24,6 +24,13 @@ SignLingo is an interactive web application designed to make learning sign langu
 * **Machine Learning:** TensorFlow/Keras, OpenCV, MediaPipe
 * **Containerization:** Docker, Docker Compose
 
+## Pretrained Model
+
+The trained models used for hand sign recognition are not included in this repository due to GitHub file size limitations.
+
+You can download them here:
+https://drive.google.com/drive/folders/1GRPr57-y2xBqUnp5vzowLnxMNWn4rHrs
+
 ---
 
 ## How to Run This Project
